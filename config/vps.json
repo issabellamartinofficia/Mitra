@@ -1,0 +1,10 @@
+{
+  "vps_list": [
+    {
+      "name": "Node-1",
+      "ip": "185.123.45.6",
+      "user": "root",
+      "pass": "yourpass"
+    }
+  ]
+}
